@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<ArrayOfZipCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ZipCode Code="50000">
+    <street>просп. Поштовий</street>
+    <street>Автозаводская</street>
+    <street>Азовская</street>
+    <street>Вахтангова</street>
+    <street>Довженко</street>
+    <street>Дунайская</street>
+    <street>Энтузиастов</street>
+  </ZipCode>
+  <ZipCode Code="50001">
+    <street>Менжинского</street>
+    <street>Минина</street>
+    <street>Нартова</street>
+    <street>Неруды</street>
+    <street>Рахманинова</street>
+  </ZipCode>
+  <ZipCode Code="50002">
+    <street>Лермонтова</street>
+    <street>Декабристов</street>
+    <street>Кобылянского</street>
+    <street>Пушкина</street>
+  </ZipCode>
+  <ZipCode Code="50004">
+    <street>Урицкого</street>
+    <street>10 лет Октября</street>
+    <street>Болгарская</street>
+    <street>Братиславская</street>
+    <street>Литейная</street>
+    <street>Плеханова</street>
+    <street>Халтурина</street>
+    <street>Челюскинцев</street>
+  </ZipCode>
+  <ZipCode Code="50005">
+    <street>Нахимова</street>
+    <street>Барнаульская</street>
+    <street>Вокзальная</street>
+    <street>Интернациональная</street>
+    <street>Железноводская</street>
+  </ZipCode>
+  <ZipCode Code="50006">
+    <street>пр-т. Металлургов</street>
+    <street>Ветеранов Труда</street>
+    <street>Постышева</street>
+    <street>Революционная</street>
+  </ZipCode>
+  <ZipCode Code="50008">
+    <street>Тынка</street>
+    <street>Космонавтов</street>
+    <street>Мелешкина</street>
+  </ZipCode>
+  <ZipCode Code="50011">
+    <street>Рублева</street>
+    <street>Арзамасская</street>
+    <street>Галилея</street>
+    <street>Козаченко</street>
+    <street>Карельская</street>
+    <street>Кольцевая</street>
+    <street>Павлика Морозова</street>
+    <street>Перова</street>
+    <street>Шекспира</street>
+    <street>Чехословацкая</street>
+  </ZipCode>
+  <ZipCode Code="50012">
+    <street>Дышинского</street>
+    <street>Большевистская</street>
+    <street>Казахская</street>
+    <street>Сеченова</street>
+  </ZipCode>
+  <ZipCode Code="50014">
+    <street>Ногина</street>
+    <street>Будапештская</street>
+    <street>Волкова</street>
+    <street>Комсомольская</street>
+    <street>Конституционная</street>
+  </ZipCode>
+  <ZipCode Code="50019">
+    <street>Мопровская</street>
+    <street>Акопяна</street>
+    <street>Бестужева</street>
+    <street>Запорожская</street>
+  </ZipCode>
+  <ZipCode Code="50023">
+    <street>Серафимовича</street>
+    <street>Вакуленчука</street>
+    <street>Вернадского</street>
+    <street>Владимирская</street>
+    <street>Грозненская</street>
+    <street>Коммунарная</street>
+    <street>Попова</street>
+    <street>Сельскохозяйственная</street>
+    <street>Футбольная</street>
+  </ZipCode>
+  <ZipCode Code="50024">
+    <street>Харитонова</street>
+    <street>Алимова</street>
+    <street>Арктическая</street>
+    <street>Белгородская</street>
+    <street>Гризодубовой</street>
+    <street>Дюма</street>
+    <street>Кривбассовская</street>
+    <street>Лациса</street>
+    <street>Свердлова</street>
+  </ZipCode>
+  <ZipCode Code="50025">
+    <street>Погребняка</street>
+    <street>Вишнёвая</street>
+    <street>Голубиная</street>
+    <street>Усть-Каменогорская</street>
+  </ZipCode>
+  <ZipCode Code="50026">
+    <street>пр-т. Южный</street>
+    <street>Авроры</street>
+    <street>Ангарская</street>
+    <street>Лысенко</street>
+  </ZipCode>
+  <ZipCode Code="50027">
+    <street>Димитрова</street>
+    <street>Волгоградская</street>
+    <street>Волосевича</street>
+    <street>Отто Брозовского</street>
+    <street>проспект Гагарина</street>
+    <street>проспект Металлургов</street>
+  </ZipCode>
+  <ZipCode Code="50029">
+    <street>Симбирцева</street>
+    <street>Бучмы</street>
+    <street>Куликовская</street>
+    <street>Кропивницкого</street>
+    <street>Университетская</street>
+  </ZipCode>
+  <ZipCode Code="50031">
+    <street>Кремлевская</street>
+    <street>Ампера</street>
+    <street>Вересаева</street>
+    <street>Галана</street>
+    <street>Кисловодская</street>
+    <street>Майкопская</street>
+    <street>Мурманская</street>
+    <street>Новошахтинская</street>
+    <street>Ударная</street>
+    <street>Шухова</street>
+  </ZipCode>
+  <ZipCode Code="50036">
+    <street>пл. Артема</street>
+    <street>Качалова</street>
+    <street>Косарева</street>
+    <street>Лётчиков</street>
+    <street>Одесская</street>
+    <street>Упита</street>
+    <street>Филатова</street>
+  </ZipCode>
+  <ZipCode Code="50037">
+    <street>Колачевского</street>
+    <street>Альпийская</street>
+    <street>Ереванская</street>
+    <street>Жемчужная</street>
+    <street>Канарская</street>
+    <street>Ковельская</street>
+    <street>Концертная</street>
+    <street>Литовская</street>
+    <street>Палехская</street>
+    <street>Универсальная</street>
+  </ZipCode>
+  <ZipCode Code="50038">
+    <street>Алитная</street>
+    <street>бульв. Кирова</street>
+    <street>Заозёрная</street>
+  </ZipCode>
+  <ZipCode Code="50041">
+    <street>Совхозная</street>
+    <street>Акмолинская</street>
+    <street>Актюбинская</street>
+    <street>Щербака</street>
+    <street>Шиферная</street>
+  </ZipCode>
+  <ZipCode Code="50042">
+    <street>Ласточкина</street>
+    <street>Подбельского</street>
+    <street>Парижской Коммуны</street>
+    <street>Сагайдачного</street>
+    <street>Тухачевского</street>
+  </ZipCode>
+  <ZipCode Code="50045">
+    <street>Куприна</street>
+    <street>Баратынского</street>
+    <street>Джанкойская</street>
+  </ZipCode>
+  <ZipCode Code="50046">
+    <street>м-р Всебратское</street>
+    <street>Баррикадная</street>
+    <street>Беломорская</street>
+    <street>Пехотинская</street>
+  </ZipCode>
+  <ZipCode Code="50047">
+    <street>Колачевского</street>
+    <street>Карбышева</street>
+    <street>Михайличенко</street>
+    <street>Чукотская</street>
+    <street>Щорса</street>
+  </ZipCode>
+  <ZipCode Code="50048">
+    <street>Котляревского</street>
+    <street>40 лет Октября</street>
+    <street>Алеутская</street>
+    <street>Блинова</street>
+    <street>Баха</street>
+    <street>Донецкая</street>
+    <street>Винницкая</street>
+    <street>Вечернекутская</street>
+    <street>Пензенская</street>
+    <street>Пурина</street>
+    <street>Самойлова</street>
+    <street>Сормовская</street>
+    <street>Транспортная</street>
+  </ZipCode>
+  <ZipCode Code="50049">
+    <street>Кузнецова</street>
+    <street>Вольная</street>
+    <street>Скляра</street>
+  </ZipCode>
+  <ZipCode Code="50051">
+    <street>Нахимова</street>
+    <street>Семашко</street>
+    <street>Смольная</street>
+  </ZipCode>
+  <ZipCode Code="50052">
+    <street>Петровского</street>
+    <street>Жовтонога</street>
+    <street>Удигейская</street>
+  </ZipCode>
+  <ZipCode Code="50053">
+    <street>Мусоргского</street>
+    <street>Армавирская</street>
+    <street>Зореносная</street>
+    <street>Новостроительная</street>
+  </ZipCode>
+  <ZipCode Code="50054">
+    <street>Вахрушева</street>
+    <street>25 лет Октября</street>
+    <street>Аристова</street>
+    <street>Абаканская</street>
+    <street>Вольтера</street>
+    <street>Добронравова</street>
+    <street>Лафарга</street>
+    <street>Муромская</street>
+    <street>Павлоградская</street>
+    <street>Транзитная</street>
+    <street>Черноморская</street>
+    <street>Шполянская</street>
+  </ZipCode>
+  <ZipCode Code="50055">
+    <street>Кириленко</street>
+    <street>Достоевского</street>
+    <street>Заньковецкой</street>
+    <street>Кокчетавская</street>
+    <street>Кубинская</street>
+    <street>Лобачевского</street>
+    <street>Луговая</street>
+    <street>Малоархангельская</street>
+    <street>Шепетовская</street>
+    <street>Янки Купалы</street>
+  </ZipCode>
+  <ZipCode Code="50056">
+    <street>микрорайон Солнечный</street>
+  </ZipCode>
+  <ZipCode Code="50057">
+    <street>микрорайон Горняцкий</street>
+  </ZipCode>
+  <ZipCode Code="50082">
+    <street>Щорса</street>
+    <street>Авилова</street>
+    <street>Бакинская</street>
+    <street>Ореховская</street>
+    <street>Говорова</street>
+    <street>Криворожская</street>
+    <street>Народная</street>
+    <street>Полесская</street>
+    <street>Олимпийская</street>
+    <street>Уточкина</street>
+  </ZipCode>
+</ArrayOfZipCode>
